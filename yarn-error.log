@@ -1,0 +1,33 @@
+Arguments: 
+  D:\Lain-lain\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add --dev eslint-config-react-app
+
+PATH: 
+  C:\xampp\mysql\bin;C:\Program Files\Common Files\Oracle\Java\javapath;G:\PT Semuanya Bersama Group\Python39\Scripts\;G:\PT Semuanya Bersama Group\Python39\;C:\Program Files\ImageMagick-7.0.11-Q16-HDRI;C:\Program Files\Zulu\zulu-8\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\OpenJDK\openjdk-8u275-b01\bin;C:\gradle-6.2.2\bin;C:\Program Files\Git\cmd;C:\xampp\php;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Go\bin;C:\ProgramData\chocolatey\bin;D:\Lain-lain\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\OpenJDK\openjdk-8u275-b01\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\dotnet\;C:\ProgramData\ComposerSetup\bin;C:\Users\Fiddin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Fiddin\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PhpStorm 2019.2\bin;D:\Lain-lain\IntelliJ IDEA Community Edition 2020.1.2\bin;D:\Lain-lain\Microsoft VS Code\bin;C:\Users\Fiddin\go\bin;C:\Users\Fiddin\AppData\Local\GitHubDesktop\bin;C:\Users\Fiddin\go\bin;C:\Users\Fiddin\AppData\Roaming\npm;C:\Users\Fiddin\AppData\Local\Microsoft\WindowsApps;C:\Users\Fiddin\AppData\Local\atom\bin;C:\Users\Fiddin\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  15.4.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\Fiddin\AppData\Local\Yarn\Cache\v6\npm-has-flag-4.0.0-944771fd9c81c81265c4d6941860da06bb59479b-integrity\node_modules\has-flag\index.d.ts' -> 'G:\Kotlin & Cloud\notes-app-back-end\node_modules\eslint\node_modules\has-flag\index.d.ts'
+
+npm manifest: 
+  {
+    "dependencies": {
+      "nodemon": "^2.0.7"
+    },
+    "devDependencies": {
+      "eslint": "^7.29.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
